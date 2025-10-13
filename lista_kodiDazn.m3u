@@ -57,6 +57,11 @@ plugin://script.module.horus?action=play&id=c015d37d1ead8155b1e7b97e743a1fe9850f
 plugin://script.module.horus?action=play&id=eb884f77ce8815cf1028c4d85e8b092c27ea1693
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R4LBVWP/dazn4.png" tvg-id="DAZN 4 HD" group-title="DAZN", Dazn 4 FHD
 plugin://script.module.horus?action=play&id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="" group-title="DAZN", Dazn Eventos 1
+plugin://script.module.horus?action=play&id=176f0b8565a161f87c81a4a250463e3eaf678fb5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="" group-title="DAZN", Dazn Eventos 2
+plugin://script.module.horus?action=play&id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vkThM3/dazn3.png" tvg-id="" group-title="DAZN", Dazn Eventos 3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" tvg-id="" group-title="DAZN", Dazn PVV FHD
 plugin://script.module.horus?action=play&id=34944c86bad01c3963ef113c28c033858085adb7
 
