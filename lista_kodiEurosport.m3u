@@ -1,5 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600"
-#EXTVLCOPT:network-caching=1000
+#EXTM3U 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", Eurosport 1 FHD
 plugin://script.module.horus?action=play&id=bae98f69fbf867550b4f73b4eb176dae84d7f909
