@@ -1,4 +1,6 @@
 #EXTM3U
+url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600"
+#EXTVLCOPT:network-caching=1000
 
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/AMC%20HD.png?raw=true" tvg-id="AMC HD" group-title="MOVISTAR", AMC HD --> NEW ERA
 plugin://script.module.horus?action=play&id=55ff9ee631af351f365f51cf3601695bf1fd20f3
