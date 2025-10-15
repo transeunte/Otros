@@ -2,80 +2,80 @@
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdOeeJOZySlQ5pDFijMIUuwLIPG.jpg",Maldoror (2025) BluRay Rip [6.7]
-acestream://d8b1587012bb5f83d8eb286ba9eca5281df113ef
+plugin://script.module.horus?action=play&id=d8b1587012bb5f83d8eb286ba9eca5281df113ef
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdOeeJOZySlQ5pDFijMIUuwLIPG.jpg",Maldoror (2025) BluRay 720pRip [6.7]
-acestream://3799a6848697ad9ad01ede3847f4b0729954dd67
+plugin://script.module.horus?action=play&id=3799a6848697ad9ad01ede3847f4b0729954dd67
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdOeeJOZySlQ5pDFijMIUuwLIPG.jpg",Maldoror (2025) BluRay 1080Rip [6.7]
-acestream://016025a847ae81dc1d465bf74f9d4e438f803283
+plugin://script.module.horus?action=play&id=016025a847ae81dc1d465bf74f9d4e438f803283
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdOeeJOZySlQ5pDFijMIUuwLIPG.jpg",Maldoror (2025) BluRay 4k 2160P [6.7]
-acestream://db4e62cc141e4ceb6da86302ac7d6cef1bb49894
+plugin://script.module.horus?action=play&id=db4e62cc141e4ceb6da86302ac7d6cef1bb49894
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWlF2i51zUq7BUq4iJte1g9NyIM.jpg",La muerte del unicornio (2025) BluRay Rip [6.5]
-acestream://df8da8d1e46debc1f3cb555af4052b910c08793f
+plugin://script.module.horus?action=play&id=df8da8d1e46debc1f3cb555af4052b910c08793f
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWlF2i51zUq7BUq4iJte1g9NyIM.jpg",La muerte del unicornio (2025) BluRay 720pRip [6.5]
-acestream://c74edf092731493ddf3ff357f972484bd875d53b
+plugin://script.module.horus?action=play&id=c74edf092731493ddf3ff357f972484bd875d53b
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWlF2i51zUq7BUq4iJte1g9NyIM.jpg",La muerte del unicornio (2025) BluRay 1080Rip [6.5]
-acestream://d91645b86115d5acd6206aebf6d4c6dc53743355
+plugin://script.module.horus?action=play&id=d91645b86115d5acd6206aebf6d4c6dc53743355
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWlF2i51zUq7BUq4iJte1g9NyIM.jpg",La muerte del unicornio (2025) BluRay 4k 2160P [6.5]
-acestream://4b9f054e17880e5e0424f7ea604c13021d993ca5
+plugin://script.module.horus?action=play&id=4b9f054e17880e5e0424f7ea604c13021d993ca5
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCo4jSaZXRZ7kJ2OBVnh6Yq3jNm.jpg",Estafa fallida (2025) BluRay Rip [5.0]
-acestream://df52eb0433de231590a3cd6908643652e2ee1537
+plugin://script.module.horus?action=play&id=df52eb0433de231590a3cd6908643652e2ee1537
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCo4jSaZXRZ7kJ2OBVnh6Yq3jNm.jpg",Estafa fallida (2025) BluRay 720pRip [5.0]
-acestream://3936eeae75a787e74b0a6ebb6ef34131dba0e91c
+plugin://script.module.horus?action=play&id=3936eeae75a787e74b0a6ebb6ef34131dba0e91c
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCo4jSaZXRZ7kJ2OBVnh6Yq3jNm.jpg",Estafa fallida (2025) BluRay 1080Rip [5.0]
-acestream://ad31b4e0fb0e4675af9f9666379379bdd89933af
+plugin://script.module.horus?action=play&id=ad31b4e0fb0e4675af9f9666379379bdd89933af
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1hSPcqycYpBCjXCNUDJNWi7uR6.jpg",Miss Carbon (2025) BluRay Rip [8.5]
-acestream://09ae5652bb8b387a990645e6afc4f3abca996b49
+plugin://script.module.horus?action=play&id=09ae5652bb8b387a990645e6afc4f3abca996b49
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1hSPcqycYpBCjXCNUDJNWi7uR6.jpg",Miss Carbon (2025) BluRay 720pRip [8.5]
-acestream://bba228921dd9015a075d2612bfa83aeb635b8996
+plugin://script.module.horus?action=play&id=bba228921dd9015a075d2612bfa83aeb635b8996
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8r4Mow5MlLh4fe45W8Uv7Lo0hiN.jpg",La mujer que nunca existio (2025) BluRay Rip [7.4]
-acestream://254b9e8d0c48b4fe27614a885a92d38f72b6833f
+plugin://script.module.horus?action=play&id=254b9e8d0c48b4fe27614a885a92d38f72b6833f
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8r4Mow5MlLh4fe45W8Uv7Lo0hiN.jpg",La mujer que nunca existio (2025) BluRay 720pRip [7.4]
-acestream://b29bc5a2d88e0b190feaab3800380262f6015b52
+plugin://script.module.horus?action=play&id=b29bc5a2d88e0b190feaab3800380262f6015b52
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRW7jHeSMAsuSQyLDYIc04T9F.jpg",The Unheard (2025) BluRay Rip [5.0]
-acestream://a76e9ffa190b0120fa966b556e1f410a696c6174
+plugin://script.module.horus?action=play&id=a76e9ffa190b0120fa966b556e1f410a696c6174
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRW7jHeSMAsuSQyLDYIc04T9F.jpg",The Unheard (2025) BluRay 720pRip [5.0]
-acestream://6b0e4c7b1a69eb98785dd87b9ae359bd70eb1c48
+plugin://script.module.horus?action=play&id=6b0e4c7b1a69eb98785dd87b9ae359bd70eb1c48
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o70dV2jjGd6TmYTMOY9b34OLzDK.jpg",The Last Showgirl (2025) BluRay 1080Rip [6.5]
-acestream://c2260508b38b5f409ee84e5f723047295e19b122
+plugin://script.module.horus?action=play&id=c2260508b38b5f409ee84e5f723047295e19b122
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o70dV2jjGd6TmYTMOY9b34OLzDK.jpg",The Last Showgirl (2025) BluRay 4k 2160P [6.5]
-acestream://39735643f71ecc69609bd9e4408ab953482f0a50
+plugin://script.module.horus?action=play&id=39735643f71ecc69609bd9e4408ab953482f0a50
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4kpdyePOlcELQQJcxXPF5GB1Adw.jpg",La mujer del camarote 10 (2025) BluRay Rip [6.1]
-acestream://f11d6fba1454a0ff9ef41d1ed15cb68358874e34
+plugin://script.module.horus?action=play&id=f11d6fba1454a0ff9ef41d1ed15cb68358874e34
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4kpdyePOlcELQQJcxXPF5GB1Adw.jpg",La mujer del camarote 10 (2025) BluRay 720pRip [6.1]
-acestream://bcccfe14517120344e3f70694f35af8a457a9ac9
+plugin://script.module.horus?action=play&id=bcccfe14517120344e3f70694f35af8a457a9ac9
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5eQaqxTQN0DDKena1XIURNRaeJ.jpg",La reunion (2025) BluRay 720pRip [6.2]
-acestream://0c1e78ff4d4053d03dbaa78485c085a055b0e90c
+plugin://script.module.horus?action=play&id=0c1e78ff4d4053d03dbaa78485c085a055b0e90c
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5eQaqxTQN0DDKena1XIURNRaeJ.jpg",La reunion (2025) BluRay 1080Rip [6.2]
 acestream://8eafd5087a5229563c87cb73c801a9eff549dcc3
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5eQaqxTQN0DDKena1XIURNRaeJ.jpg",La reunion (2025) BluRay 4k 2160P [6.2]
-acestream://fc94df9bc1edf4ec426c50f84181a376a09ab5e0
+plugin://script.module.horus?action=play&id=fc94df9bc1edf4ec426c50f84181a376a09ab5e0
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aka4GNY1MniOZiCa7U3nldaAf2J.jpg",Bajo un volcan (2025) BluRay Rip [9.0]
-acestream://784269ffa8f416894c62541808377e2f6add00bd
+plugin://script.module.horus?action=play&id=784269ffa8f416894c62541808377e2f6add00bd
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aka4GNY1MniOZiCa7U3nldaAf2J.jpg",Bajo un volcan (2025) BluRay 720pRip [9.0]
-acestream://79c2ef15def77c558eab5b839ce7eb8498fe5457
+plugin://script.module.horus?action=play&id=79c2ef15def77c558eab5b839ce7eb8498fe5457
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wV65OmsjLAqBfDnYTkMPutXH8j.jpg",Ponte en mi lugar de nuevo (2025) BluRay Rip [6.9]
-acestream://83bc3a2d67b82dba0b2d5ffa656dd5b423d57a9f
+plugin://script.module.horus?action=play&id=83bc3a2d67b82dba0b2d5ffa656dd5b423d57a9f
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wV65OmsjLAqBfDnYTkMPutXH8j.jpg",Ponte en mi lugar de nuevo (2025) BluRay 720pRip [6.9]
-acestream://b685bba60df69862588a9b66bb28fccaf9063a77
+plugin://script.module.horus?action=play&id=b685bba60df69862588a9b66bb28fccaf9063a77
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wV65OmsjLAqBfDnYTkMPutXH8j.jpg",Ponte en mi lugar de nuevo (2025) BluRay 1080Rip [6.9]
-acestream://418293b1cda9bfd08db899b60f94e39ada27cd47
+plugin://script.module.horus?action=play&id=418293b1cda9bfd08db899b60f94e39ada27cd47
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wV65OmsjLAqBfDnYTkMPutXH8j.jpg",Ponte en mi lugar de nuevo (2025) BluRay 4k 2160P [6.9]
-acestream://1d281db4721f04eea69d875a2b8071e6d3bb61ab
+plugin://script.module.horus?action=play&id=1d281db4721f04eea69d875a2b8071e6d3bb61ab
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPhO7N3IOjEiNQop4yBLQUWJNXL.jpg",El caso Frieda (2025) BluRay Rip [5.0]
-acestream://c9f2aa4dc3da909706ae5e8772468156608fa70a
+plugin://script.module.horus?action=play&id=c9f2aa4dc3da909706ae5e8772468156608fa70a
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPhO7N3IOjEiNQop4yBLQUWJNXL.jpg",El caso Frieda (2025) BluRay 720pRip [5.0]
-acestream://58f1ba8efec5fa7217449b58c7f83f2537cc5afb
+plugin://script.module.horus?action=play&id=58f1ba8efec5fa7217449b58c7f83f2537cc5afb
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Xu3KumdXHDpUOR9inJoAMtIcrM.jpg",Una Quinta Portuguesa (2025) BluRay Rip [6.7]
 acestream://9f98b85a260547c28170cd2ab946d3e9e8fd7d89
@@ -85,87 +85,87 @@ acestream://7d2c6864cae8f40f5e6857acff4f65e3eb5f5a76
 acestream://d850c9709743aad2e2ed44082deb7c3777d37865
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lM7Q1y0pmHPWZCPmGkAWGKdgu6W.jpg",Se requiere mantenimiento (2025) BluRay Rip [6.0]
-acestream://83aaf13bb91cd08819a19bb3e91a040de890ae4c
+plugin://script.module.horus?action=play&id=83aaf13bb91cd08819a19bb3e91a040de890ae4c
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lM7Q1y0pmHPWZCPmGkAWGKdgu6W.jpg",Se requiere mantenimiento (2025) BluRay 720pRip [6.0]
-acestream://88975afaf5b649aa98190bc5e02fad59cac47e10
+plugin://script.module.horus?action=play&id=88975afaf5b649aa98190bc5e02fad59cac47e10
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lM7Q1y0pmHPWZCPmGkAWGKdgu6W.jpg",Se requiere mantenimiento (2025) BluRay 1080Rip [6.0]
-acestream://5c3122ea09fc901ca0c0b3d5ffd46da8a6e5a291
+plugin://script.module.horus?action=play&id=5c3122ea09fc901ca0c0b3d5ffd46da8a6e5a291
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lM7Q1y0pmHPWZCPmGkAWGKdgu6W.jpg",Se requiere mantenimiento (2025) BluRay 4k 2160P [6.0]
-acestream://d1ef4b7957df87e2272260c96c247aee19f23ef2
+plugin://script.module.horus?action=play&id=d1ef4b7957df87e2272260c96c247aee19f23ef2
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ENAa0K2Qqm6VNf4eZoR4TaLDSn.jpg",Hombres de guerra  (2025) BluRay Rip [5.7]
-acestream://d5aec4c67a781ff0abaabada522fcdb4e3570744
+plugin://script.module.horus?action=play&id=d5aec4c67a781ff0abaabada522fcdb4e3570744
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ENAa0K2Qqm6VNf4eZoR4TaLDSn.jpg",Hombres de guerra  (2025) BluRay 720pRip [5.7]
-acestream://c59f9d81c73d70b3b746ded67f2270d809035292
+plugin://script.module.horus?action=play&id=c59f9d81c73d70b3b746ded67f2270d809035292
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ENAa0K2Qqm6VNf4eZoR4TaLDSn.jpg",Hombres de guerra  (2025) BluRay 1080Rip [5.7]
-acestream://889917ac6145232f9d7c82d44ac6584b095b352e
+plugin://script.module.horus?action=play&id=889917ac6145232f9d7c82d44ac6584b095b352e
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tydkeN2ClMSLVnohzyiLIUmaRLT.jpg",Nosotros los Leroy (2025) BluRay Rip [6.3]
-acestream://090e8d3d63a28915bb3bf283bbe7b19b0c18d8f2
+plugin://script.module.horus?action=play&id=090e8d3d63a28915bb3bf283bbe7b19b0c18d8f2
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tydkeN2ClMSLVnohzyiLIUmaRLT.jpg",Nosotros los Leroy (2025) BluRay 720pRip [6.3]
-acestream://03a66e44f26946162ad62b2e6eacc5b932d85254
+plugin://script.module.horus?action=play&id=03a66e44f26946162ad62b2e6eacc5b932d85254
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tydkeN2ClMSLVnohzyiLIUmaRLT.jpg",Nosotros los Leroy (2025) BluRay 1080Rip [6.3]
-acestream://33cde63806665f4b1204f67159d3732eb7169b26
+plugin://script.module.horus?action=play&id=33cde63806665f4b1204f67159d3732eb7169b26
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tydkeN2ClMSLVnohzyiLIUmaRLT.jpg",Nosotros los Leroy (2025) BluRay 4k 2160P [6.3]
-acestream://18ccc4c8c412b1e23f722564bc20bca16bbdcc0e
+plugin://script.module.horus?action=play&id=18ccc4c8c412b1e23f722564bc20bca16bbdcc0e
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ur3H6g9xmrLQX2Ioh9z3P904ZSC.jpg",Caramelo (2025) BluRay 720pRip [7.0]
-acestream://d1b6f5ce382e6e8d5ba177b34e1cf172c0e81f42
+plugin://script.module.horus?action=play&id=d1b6f5ce382e6e8d5ba177b34e1cf172c0e81f42
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8AgHsphAafmNANTKdBQfKmgGbhi.jpg",A toda maquina (2025) BluRay Rip [5.4]
-acestream://90b26a2277206b200e1dde4ad256a9188f076aab
+plugin://script.module.horus?action=play&id=90b26a2277206b200e1dde4ad256a9188f076aab
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8AgHsphAafmNANTKdBQfKmgGbhi.jpg",A toda maquina (2025) BluRay 720pRip [5.4]
 acestream://97a3aeff5c26a85f0388d72da34bdd566e68b92e
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wV65OmsjLAqBfDnYTkMPutXH8j.jpg",Ponte en mi lugar de nuevo (2025) BluRay Rip [6.9]
-acestream://83bc3a2d67b82dba0b2d5ffa656dd5b423d57a9f
+plugin://script.module.horus?action=play&id=83bc3a2d67b82dba0b2d5ffa656dd5b423d57a9f
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wV65OmsjLAqBfDnYTkMPutXH8j.jpg",Ponte en mi lugar de nuevo (2025) BluRay 720pRip [6.9]
-acestream://b685bba60df69862588a9b66bb28fccaf9063a77
+plugin://script.module.horus?action=play&id=b685bba60df69862588a9b66bb28fccaf9063a77
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wV65OmsjLAqBfDnYTkMPutXH8j.jpg",Ponte en mi lugar de nuevo (2025) BluRay 1080Rip [6.9]
-acestream://418293b1cda9bfd08db899b60f94e39ada27cd47
+plugin://script.module.horus?action=play&id=418293b1cda9bfd08db899b60f94e39ada27cd47
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wV65OmsjLAqBfDnYTkMPutXH8j.jpg",Ponte en mi lugar de nuevo (2025) BluRay 4k 2160P [6.9]
-acestream://1d281db4721f04eea69d875a2b8071e6d3bb61ab
+plugin://script.module.horus?action=play&id=1d281db4721f04eea69d875a2b8071e6d3bb61ab
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ISZRw31m60IkOnWhu2eIKf06uT.jpg",La Buena Suerte  (2025) BluRay Rip [5.0]
-acestream://7979c03f7792fa6b1f8bdde2a151f7cb66dbdf1e
+plugin://script.module.horus?action=play&id=7979c03f7792fa6b1f8bdde2a151f7cb66dbdf1e
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ISZRw31m60IkOnWhu2eIKf06uT.jpg",La Buena Suerte  (2025) BluRay 720pRip [5.0]
-acestream://f4707ab54bf66491e31178b1daab9cbdf442c76d
+plugin://script.module.horus?action=play&id=f4707ab54bf66491e31178b1daab9cbdf442c76d
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dS9sU5JGnkmEVZ9ubgnJa6RMLwx.jpg",Bloody Axe Wound (2025) BluRay Rip [5.3]
-acestream://62d19d63ff240f60d7ed1d2c3241d8404b41642a
+plugin://script.module.horus?action=play&id=62d19d63ff240f60d7ed1d2c3241d8404b41642a
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dS9sU5JGnkmEVZ9ubgnJa6RMLwx.jpg",Bloody Axe Wound (2025) BluRay 720pRip [5.3]
-acestream://07173e58874084eb4eab98edcd54f253a5a798bc
+plugin://script.module.horus?action=play&id=07173e58874084eb4eab98edcd54f253a5a798bc
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dS9sU5JGnkmEVZ9ubgnJa6RMLwx.jpg",Bloody Axe Wound (2025) BluRay 1080Rip [5.3]
-acestream://1bf095d9ab0311793cb648ffe2a4997fc8974875
+plugin://script.module.horus?action=play&id=1bf095d9ab0311793cb648ffe2a4997fc8974875
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAP9hkfI5vSTohgDS53Ia3jCyZ1.jpg",Una cita de muerte (2025) BluRay Rip [5.0]
-acestream://b5c2aa8a1002debbdb861dcc7e1fb6fdbbeeee89
+plugin://script.module.horus?action=play&id=b5c2aa8a1002debbdb861dcc7e1fb6fdbbeeee89
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAP9hkfI5vSTohgDS53Ia3jCyZ1.jpg",Una cita de muerte (2025) BluRay 720pRip [5.0]
-acestream://a04603c3dc9efb530f9fa29bc12c1dec9049c903
+plugin://script.module.horus?action=play&id=a04603c3dc9efb530f9fa29bc12c1dec9049c903
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JzOmJ1fIU43I3gLHYsY8UzNzjG.jpg",Expediente Warren El ultimo rito (2025) BluRay Rip [6.8]
-acestream://5a05294ee904af02285896799f7ee552c9b70014
+plugin://script.module.horus?action=play&id=5a05294ee904af02285896799f7ee552c9b70014
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JzOmJ1fIU43I3gLHYsY8UzNzjG.jpg",Expediente Warren El ultimo rito (2025) BluRay 720pRip [6.8]
-acestream://8c3afae0d618bdf4f968d960e073471aa56227f9
+plugin://script.module.horus?action=play&id=8c3afae0d618bdf4f968d960e073471aa56227f9
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JzOmJ1fIU43I3gLHYsY8UzNzjG.jpg",Expediente Warren El ultimo rito (2025) BluRay 4k 2160P [6.8]
-acestream://9a22d723f989235e84e9448c92d831f2ed8c5273
+plugin://script.module.horus?action=play&id=9a22d723f989235e84e9448c92d831f2ed8c5273
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmLoMyofbseLfxiGgk1Iz5H97c3.jpg",Steve (2025) BluRay Rip [6.7]
-acestream://a7d90351396a1ceef73ecb186fb6042c8214a2a9
+plugin://script.module.horus?action=play&id=a7d90351396a1ceef73ecb186fb6042c8214a2a9
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmLoMyofbseLfxiGgk1Iz5H97c3.jpg",Steve (2025) BluRay 720pRip [6.7]
-acestream://59c88223bdc2b22340422a0b8b5b8437d7044e6b
+plugin://script.module.horus?action=play&id=59c88223bdc2b22340422a0b8b5b8437d7044e6b
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gg8gyJ7LvQQVjojmStwBWitQOQg.jpg",Tres Kilometros Al Fin Del Mundo (2025) BluRay Rip [6.7]
-acestream://146effdfc1554ea8c01a583ed367a0b0dd78c2c1
+plugin://script.module.horus?action=play&id=146effdfc1554ea8c01a583ed367a0b0dd78c2c1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gg8gyJ7LvQQVjojmStwBWitQOQg.jpg",Tres Kilometros Al Fin Del Mundo (2025) BluRay 720pRip [6.7]
-acestream://6a4e52327a4dedcfcd1324b87c655ff517359b40
+plugin://script.module.horus?action=play&id=6a4e52327a4dedcfcd1324b87c655ff517359b40
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fKnLt1xQV0RdpN6RViowEiD1dFW.jpg",El Luchador Definitivo (2025) BluRay Rip [5.0]
-acestream://f2e1d37f0a238a3d5eca09de3e176e76aad601e5
+plugin://script.module.horus?action=play&id=f2e1d37f0a238a3d5eca09de3e176e76aad601e5
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fKnLt1xQV0RdpN6RViowEiD1dFW.jpg",El Luchador Definitivo (2025) BluRay 720pRip [5.0]
-acestream://39076e3234684213af3d0f94a48d14d2d51f5fd8
+plugin://script.module.horus?action=play&id=39076e3234684213af3d0f94a48d14d2d51f5fd8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fKnLt1xQV0RdpN6RViowEiD1dFW.jpg",El Luchador Definitivo (2025) BluRay 1080Rip [5.0]
-acestream://7f26872b24fdad44905f69b5b5c537546cca802a
+plugin://script.module.horus?action=play&id=7f26872b24fdad44905f69b5b5c537546cca802a
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1c9uQtAHPGYJaLXkR0G5k6nmyG.jpg",El Jockey (2025) BluRay Rip [6.9]
 acestream://3394eba8693e3b9e55f672785f10fb5184b945db
@@ -173,18 +173,18 @@ acestream://3394eba8693e3b9e55f672785f10fb5184b945db
 acestream://e1820c989d31e03450bb3588482c7fa96d581d47
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWX6kEdSWYfyTqqiJW2uzn47Lsd.jpg",El piloto (De Ballonvaarder) (2025) BluRay Rip [6.6]
-acestream://256ad520842086a396cdc459340b3f5284bd15d4
+plugin://script.module.horus?action=play&id=256ad520842086a396cdc459340b3f5284bd15d4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWX6kEdSWYfyTqqiJW2uzn47Lsd.jpg",El piloto (De Ballonvaarder) (2025) BluRay 720pRip [6.6]
-acestream://a56a82124bc9fc628aae10030468dfb1d8da3c43
+plugin://script.module.horus?action=play&id=a56a82124bc9fc628aae10030468dfb1d8da3c43
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpygCOYY1DPBkeUsrrznLRN5js5.jpg",Laberinto en llamas (2025) BluRay Rip [6.9]
-acestream://aac6bd12d39e7bca4b64509d14f4aa7a8d5dc604
+plugin://script.module.horus?action=play&id=aac6bd12d39e7bca4b64509d14f4aa7a8d5dc604
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpygCOYY1DPBkeUsrrznLRN5js5.jpg",Laberinto en llamas (2025) BluRay 720pRip [6.9]
-acestream://9f131ea64a94cd1eaece32686a80951e31b6150c
+plugin://script.module.horus?action=play&id=9f131ea64a94cd1eaece32686a80951e31b6150c
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpygCOYY1DPBkeUsrrznLRN5js5.jpg",Laberinto en llamas (2025) BluRay 1080Rip [6.9]
-acestream://25c375ad8be97777f6928a9427be2049570c5c48
+plugin://script.module.horus?action=play&id=25c375ad8be97777f6928a9427be2049570c5c48
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpygCOYY1DPBkeUsrrznLRN5js5.jpg",Laberinto en llamas (2025) BluRay 4k 2160P [6.9]
-acestream://6b0330c9525d2953e135b244a10e8dcc9611b62a
+plugin://script.module.horus?action=play&id=6b0330c9525d2953e135b244a10e8dcc9611b62a
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8SXr3SCtHESHkmO2mFqzqlJ09L.jpg",Baltimore (2025) BluRay Rip [5.8]
 acestream://3a77706cdc32efd8aa3716c976762bcb5c2ffff8
