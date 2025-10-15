@@ -1,39 +1,39 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdOeeJOZySlQ5pDFijMIUuwLIPG.jpg",Maldoror (2025) BluRay Rip [6.7]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdOeeJOZySlQ5pDFijMIUuwLIPG.jpg" group-title="Peliculas 2025",Maldoror (2025) BluRay Rip [6.7]
 plugin://script.module.horus?action=play&id=d8b1587012bb5f83d8eb286ba9eca5281df113ef
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdOeeJOZySlQ5pDFijMIUuwLIPG.jpg",Maldoror (2025) BluRay 720pRip [6.7]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdOeeJOZySlQ5pDFijMIUuwLIPG.jpg" group-title="Peliculas 2025",Maldoror (2025) BluRay 720pRip [6.7]
 plugin://script.module.horus?action=play&id=3799a6848697ad9ad01ede3847f4b0729954dd67
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdOeeJOZySlQ5pDFijMIUuwLIPG.jpg",Maldoror (2025) BluRay 1080Rip [6.7]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdOeeJOZySlQ5pDFijMIUuwLIPG.jpg" group-title="Peliculas 2025",Maldoror (2025) BluRay 1080Rip [6.7]
 plugin://script.module.horus?action=play&id=016025a847ae81dc1d465bf74f9d4e438f803283
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdOeeJOZySlQ5pDFijMIUuwLIPG.jpg",Maldoror (2025) BluRay 4k 2160P [6.7]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdOeeJOZySlQ5pDFijMIUuwLIPG.jpg" group-title="Peliculas 2025",Maldoror (2025) BluRay 4k 2160P [6.7]
 plugin://script.module.horus?action=play&id=db4e62cc141e4ceb6da86302ac7d6cef1bb49894
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWlF2i51zUq7BUq4iJte1g9NyIM.jpg",La muerte del unicornio (2025) BluRay Rip [6.5]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWlF2i51zUq7BUq4iJte1g9NyIM.jpg" group-title="Peliculas 2025",La muerte del unicornio (2025) BluRay Rip [6.5]
 plugin://script.module.horus?action=play&id=df8da8d1e46debc1f3cb555af4052b910c08793f
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWlF2i51zUq7BUq4iJte1g9NyIM.jpg",La muerte del unicornio (2025) BluRay 720pRip [6.5]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWlF2i51zUq7BUq4iJte1g9NyIM.jpg" group-title="Peliculas 2025",La muerte del unicornio (2025) BluRay 720pRip [6.5]
 plugin://script.module.horus?action=play&id=c74edf092731493ddf3ff357f972484bd875d53b
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWlF2i51zUq7BUq4iJte1g9NyIM.jpg",La muerte del unicornio (2025) BluRay 1080Rip [6.5]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWlF2i51zUq7BUq4iJte1g9NyIM.jpg" group-title="Peliculas 2025",La muerte del unicornio (2025) BluRay 1080Rip [6.5]
 plugin://script.module.horus?action=play&id=d91645b86115d5acd6206aebf6d4c6dc53743355
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWlF2i51zUq7BUq4iJte1g9NyIM.jpg",La muerte del unicornio (2025) BluRay 4k 2160P [6.5]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWlF2i51zUq7BUq4iJte1g9NyIM.jpg" group-title="Peliculas 2025",La muerte del unicornio (2025) BluRay 4k 2160P [6.5]
 plugin://script.module.horus?action=play&id=4b9f054e17880e5e0424f7ea604c13021d993ca5
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCo4jSaZXRZ7kJ2OBVnh6Yq3jNm.jpg",Estafa fallida (2025) BluRay Rip [5.0]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCo4jSaZXRZ7kJ2OBVnh6Yq3jNm.jpg" group-title="Peliculas 2025",Estafa fallida (2025) BluRay Rip [5.0]
 plugin://script.module.horus?action=play&id=df52eb0433de231590a3cd6908643652e2ee1537
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCo4jSaZXRZ7kJ2OBVnh6Yq3jNm.jpg",Estafa fallida (2025) BluRay 720pRip [5.0]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCo4jSaZXRZ7kJ2OBVnh6Yq3jNm.jpg" group-title="Peliculas 2025",Estafa fallida (2025) BluRay 720pRip [5.0]
 plugin://script.module.horus?action=play&id=3936eeae75a787e74b0a6ebb6ef34131dba0e91c
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCo4jSaZXRZ7kJ2OBVnh6Yq3jNm.jpg",Estafa fallida (2025) BluRay 1080Rip [5.0]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCo4jSaZXRZ7kJ2OBVnh6Yq3jNm.jpg" group-title="Peliculas 2025",Estafa fallida (2025) BluRay 1080Rip [5.0]
 plugin://script.module.horus?action=play&id=ad31b4e0fb0e4675af9f9666379379bdd89933af
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1hSPcqycYpBCjXCNUDJNWi7uR6.jpg",Miss Carbon (2025) BluRay Rip [8.5]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1hSPcqycYpBCjXCNUDJNWi7uR6.jpg" group-title="Peliculas 2025",Miss Carbon (2025) BluRay Rip [8.5]
 plugin://script.module.horus?action=play&id=09ae5652bb8b387a990645e6afc4f3abca996b49
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1hSPcqycYpBCjXCNUDJNWi7uR6.jpg",Miss Carbon (2025) BluRay 720pRip [8.5]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1hSPcqycYpBCjXCNUDJNWi7uR6.jpg" group-title="Peliculas 2025",Miss Carbon (2025) BluRay 720pRip [8.5]
 plugin://script.module.horus?action=play&id=bba228921dd9015a075d2612bfa83aeb635b8996
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8r4Mow5MlLh4fe45W8Uv7Lo0hiN.jpg",La mujer que nunca existio (2025) BluRay Rip [7.4]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8r4Mow5MlLh4fe45W8Uv7Lo0hiN.jpg" group-title="Peliculas 2025",La mujer que nunca existio (2025) BluRay Rip [7.4]
 plugin://script.module.horus?action=play&id=254b9e8d0c48b4fe27614a885a92d38f72b6833f
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8r4Mow5MlLh4fe45W8Uv7Lo0hiN.jpg",La mujer que nunca existio (2025) BluRay 720pRip [7.4]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8r4Mow5MlLh4fe45W8Uv7Lo0hiN.jpg" group-title="Peliculas 2025",La mujer que nunca existio (2025) BluRay 720pRip [7.4]
 plugin://script.module.horus?action=play&id=b29bc5a2d88e0b190feaab3800380262f6015b52
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRW7jHeSMAsuSQyLDYIc04T9F.jpg",The Unheard (2025) BluRay Rip [5.0]
