@@ -216,6 +216,8 @@ plugin://script.module.horus?action=play&id=eb884f77ce8815cf1028c4d85e8b092c27ea
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R4LBVWP/dazn4.png" tvg-id="DAZN 4 HD" group-title="DAZN", DAZN 4 --> SPORT TV
 plugin://script.module.horus?action=play&id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FArchivo%3ADazn-logo.png&psig=AOvVaw0gdrDIc9poHRl7F9kOAsua&ust=1760140000735000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLDo0NCmmJADFQAAAAAdAAAAABAE" tvg-id="" group-title="DAZN", DAZN PVV --> NEW ERA
+plugin://script.module.horus?action=play&id=1c8f3326142645fb3678075c7171d650594be795
+#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FArchivo%3ADazn-logo.png&psig=AOvVaw0gdrDIc9poHRl7F9kOAsua&ust=1760140000735000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLDo0NCmmJADFQAAAAAdAAAAABAE" tvg-id="" group-title="DAZN", DAZN PVV --> NEW ERA
 plugin://script.module.horus?action=play&id=0f86119f233fd64fe85cc0b4a9059590d06d242a
 #EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FArchivo%3ADazn-logo.png&psig=AOvVaw0gdrDIc9poHRl7F9kOAsua&ust=1760140000735000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLDo0NCmmJADFQAAAAAdAAAAABAE" tvg-id="" group-title="DAZN", DAZN PVV --> NEW ERA
 plugin://script.module.horus?action=play&id=34944c86bad01c3963ef113c28c033858085adb7
@@ -247,6 +249,10 @@ plugin://script.module.horus?action=play&id=bcf9dc38f92e90a71b87bd54b3bac91b76d0
 plugin://script.module.horus?action=play&id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 SD --> ELCANO
 plugin://script.module.horus?action=play&id=ed6188dcbb491efeb2092c1a6199226c27f61727
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD --> NEW LOOP
+plugin://script.module.horus?action=play&id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD --> NEW LOOP
+plugin://script.module.horus?action=play&id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 --> SPORT TV
 plugin://script.module.horus?action=play&id=b04372b9543d763bd2dbd2a1842d9723fd080076
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 HD --> SPORT TV
@@ -305,6 +311,8 @@ plugin://script.module.horus?action=play&id=690f0f15439c773017ace3b6979c6e518d86
 plugin://script.module.horus?action=play&id=edb507e38394d614c9ff55805c9d354ae13210bc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%203.png" tvg-id="FR | beIN SPORTS 3" group-title="FUTBOL INT", BEIN SPORTS 3 --> SPORT TV
 plugin://script.module.horus?action=play&id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/320px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" tvg-id="beIN SPORTS XTRA ñ" group-title="FUTBOL INT", BEIN SPORTS Ñ --> NEW LOOP
+plugin://script.module.horus?action=play&id=e8e459656f964f601ad4bcda8b81a43ba41c68f9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1" group-title="FUTBOL INT", BT Sport 1 [UK] --> SPORT TV
 plugin://script.module.horus?action=play&id=fc5089d8e1519872fdf951779ccbca913acc9bce
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1" group-title="FUTBOL INT", BT Sport 1 [UK] --> SPORT TV
@@ -393,6 +401,8 @@ plugin://script.module.horus?action=play&id=8670df538a11c6ec97b3f634981ddc4409ca
 plugin://script.module.horus?action=play&id=6a54f8fb00406c88f68ac3f3aabc7d084f9573d0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="TDT", LA 1 FHD --> NEW ERA
 plugin://script.module.horus?action=play&id=dad5e0e0825cb3e410008f1c4252387b868e740c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="TDT", LA 1 FHD --> NEW ERA
+plugin://script.module.horus?action=play&id=7597d4feb3195079ffa606cf23a183d626ee40ba
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YFzzqWw5/la2.png" tvg-id="La 2" group-title="TDT", LA 2 FHD --> NEW ERA
 plugin://script.module.horus?action=play&id=9934906503661142f97a044ae1509a294057c2ed
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SX1jhBzy/lasexta.png" tvg-id="La Sexta HD" group-title="TDT", LA SEXTA FHD --> NEW ERA
@@ -459,10 +469,6 @@ plugin://script.module.horus?action=play&id=4bfeb0516c44c4f0e3502e3f1ca1035d39dd
 plugin://script.module.horus?action=play&id=21be4fe2052fc66456b4f233428bb40a681bf863
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", NFL USA SD --> NEW ERA
 plugin://script.module.horus?action=play&id=5a71a114fdf460fc90f88b959f83625b964a5d62
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Orange TV --> NEW LOOP
-plugin://script.module.horus?action=play&id=abdbfccdfd73bb5b1dcad598d539058040fb24fa
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Pluto TV Auto Motor Sport (720p) --> NEW LOOP
-plugin://script.module.horus?action=play&id=ffa09e597804001f634dd1829f031823411a2595
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", RTL+ SPORT EVENT 1 (DE) --> SPORT TV
 plugin://script.module.horus?action=play&id=a7319ebd54cb1db9a9db1574929ca8d305a323d3
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", RTL+ SPORT EVENT 2 (DE) --> SPORT TV
