@@ -34,13 +34,9 @@ plugin://script.module.horus?action=play&id=50a8a13c474848d1efbd5586efdb5b6cdd17
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 FHD --> NEW ERA
 plugin://script.module.horus?action=play&id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 --> ELCANO
-plugin://script.module.horus?action=play&id=a116ce3ff95c41c60e987e2b1aa247007f707884
+plugin://script.module.horus?action=play&id=c1e44ff2f8e093f0e4365791026fb95a9b22ab96
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 --> ELCANO
-plugin://script.module.horus?action=play&id=f9c6a0e04cb062098571c6cbaa6fa4b60cc7e0cb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 --> ELCANO
-plugin://script.module.horus?action=play&id=dddff67edfa7061f643ec5ae0be110169850363d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 --> ELCANO
-plugin://script.module.horus?action=play&id=78124d96a1a4601e7910f50e36a16e35efcfb398
+plugin://script.module.horus?action=play&id=7063fb3baac2aa226050e475fbf0df461041bd4c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 --> NEW LOOP
 plugin://script.module.horus?action=play&id=0560234787945a17522e284c4c22bb4df29f33b0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 --> SPORT TV
@@ -52,19 +48,17 @@ plugin://script.module.horus?action=play&id=8b081c8afbd9beafc8c5fbf0115eb36eadb0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 FHD --> NEW ERA
 plugin://script.module.horus?action=play&id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 --> ELCANO
-plugin://script.module.horus?action=play&id=350bb4d726e2dd4dc4b2b17b59da783fdb07c11b
+plugin://script.module.horus?action=play&id=ab3cf9567ee261f8b88ec987c2dcdb9b3058cddb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 --> ELCANO
-plugin://script.module.horus?action=play&id=01ce89b571b6c89bc19ccaafc913d483ac65c61d
+plugin://script.module.horus?action=play&id=05830d69adbd2443d5abee9478db0d2bdab75321
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 --> ELCANO
-plugin://script.module.horus?action=play&id=d60b8c154828cb990b7bb1570764b215bd979e74
+plugin://script.module.horus?action=play&id=daa81be3ce3b08c552a0817ef0363860733dfddf
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 --> NEW LOOP
 plugin://script.module.horus?action=play&id=c93a0d4914713db942fbb210bac467b0224c63a6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 --> SPORT TV
 plugin://script.module.horus?action=play&id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20BAR.png" tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 BAR FHD --> NEW ERA
 plugin://script.module.horus?action=play&id=2f9211669499f413dab1a490198afab2a9b4b57c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vkThM3/dazn3.png" tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3 --> ELCANO
-plugin://script.module.horus?action=play&id=85fd2f5f6a38fead496a8e8697c874f459f92bab
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vkThM3/dazn3.png" tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3 --> NEW LOOP
 plugin://script.module.horus?action=play&id=98fba924421aa1e4bd28e74d74a2726d0459b594
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vkThM3/dazn3.png" tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3 --> SPORT TV
@@ -72,7 +66,7 @@ plugin://script.module.horus?action=play&id=d1d9ec2361a6ac8edc0b2841866383768cc2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R4LBVWP/dazn4.png" tvg-id="DAZN 4 HD" group-title="DAZN", DAZN 4 FHD --> NEW ERA
 plugin://script.module.horus?action=play&id=c015d37d1ead8155b1e7b97e743a1fe9850f0af5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R4LBVWP/dazn4.png" tvg-id="DAZN 4 HD" group-title="DAZN", DAZN 4 --> ELCANO
-plugin://script.module.horus?action=play&id=d669c6cee7173a1c8994075f7050a6526655b1dc
+plugin://script.module.horus?action=play&id=ad5061d821bc773e90b2a0495d09f4fb8cbc0423
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R4LBVWP/dazn4.png" tvg-id="DAZN 4 HD" group-title="DAZN", DAZN 4 --> NEW LOOP
 plugin://script.module.horus?action=play&id=c21a2524a8de3e1e5b126f2677a3e993d9aa07c4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R4LBVWP/dazn4.png" tvg-id="DAZN 4 HD" group-title="DAZN", DAZN 4 --> SPORT TV
@@ -90,11 +84,11 @@ plugin://script.module.horus?action=play&id=9fb99c40a2c45d5c5342b30626eb56140f98
 #EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/2023/07/13/medium/60e1502d7d6098162828bb002e98bdb4.png" tvg-id="GOL" group-title="DEPORTES", GOL PLAY FHD --> NEW ERA
 plugin://script.module.horus?action=play&id=b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Esport%203.png?raw=true" tvg-id="Real Madrid TV" group-title="DEPORTES", REAL MADRID TV HD --> ELCANO
-plugin://script.module.horus?action=play&id=ac353757b626cedc6461d8eb73bfffa15fbb7be7
+plugin://script.module.horus?action=play&id=e8e667b0a57c86096ee73835c33a5962b4be1999
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Esport%203.png?raw=true" tvg-id="Real Madrid TV" group-title="DEPORTES", REAL MADRID TV HD --> ELCANO
-plugin://script.module.horus?action=play&id=67f217e7d64c290e96175e0af4743cddbf8d2e85
+plugin://script.module.horus?action=play&id=8df9f39935ddc073a4caafdece64b58a8b59f7d4
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Esport%203.png?raw=true" tvg-id="Real Madrid TV" group-title="DEPORTES", REAL MADRID TV HD --> ELCANO
-plugin://script.module.horus?action=play&id=44ea3d00ee2abfd5d89792a32851d7af61f16f0a
+plugin://script.module.horus?action=play&id=822e800cc5ffe644b4c10ae3d8f33db235ed8e2b
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Arena_GB_logo.png?1734015005" tvg-id="UK | Sky Sport Arena" group-title="DEPORTES", SKY SPORTS ARENA --> NEW LOOP
 plugin://script.module.horus?action=play&id=37796ca47026bc190c7dc26827c0dfb6b61d137b
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Arena_GB_logo.png?1734015005" tvg-id="UK | Sky Sport Arena" group-title="DEPORTES", SKY SPORTS ARENA --> SPORT TV
@@ -107,8 +101,6 @@ plugin://script.module.horus?action=play&id=78266c15035d0ad8cbc58f821733931e1de4
 plugin://script.module.horus?action=play&id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fb9dbDW/tdp.png" tvg-id="Teledeporte" group-title="DEPORTES", TELEDEPORTE FHD --> NEW ERA
 plugin://script.module.horus?action=play&id=2d997da301573c5aba78f969d0d37eb6107941b2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fb9dbDW/tdp.png" tvg-id="Teledeporte" group-title="DEPORTES", TELEDEPORTE --> ELCANO
-plugin://script.module.horus?action=play&id=b0d1489c9f3239349665ad5ab423363f2b02e5ae
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1 FHD --> NEW ERA
 plugin://script.module.horus?action=play&id=bae98f69fbf867550b4f73b4eb176dae84d7f909
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1 FHD --> NEW ERA
@@ -116,25 +108,25 @@ plugin://script.module.horus?action=play&id=714e14e6d6e27660fd25a75b57b0ac5580fe
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1 --> NEW ERA III
 plugin://script.module.horus?action=play&id=62a5750be4d2218b1064f83afaac4770fd92350d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1 --> ELCANO
-plugin://script.module.horus?action=play&id=313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153
+plugin://script.module.horus?action=play&id=7153060181b1f9b86703db2ebf98e45f45a6edc1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1 --> ELCANO
-plugin://script.module.horus?action=play&id=48a589dbeab3544662fafd79888aada7d834cfe9
+plugin://script.module.horus?action=play&id=9c825219b69291e2a103404bdfd63c3d7a6c9f66
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1 --> ELCANO
-plugin://script.module.horus?action=play&id=8522af51ae7189b12effabbb448dcb707195ce1a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1 --> NEW LOOP
-plugin://script.module.horus?action=play&id=b7975e28c67ed7c5831b097944761623bd52baf5
+plugin://script.module.horus?action=play&id=e6f548fe85889b6f943f4e1dd072608ab0162aec
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1 HD --> NEW LOOP
 plugin://script.module.horus?action=play&id=547ab7146a86d6119c9332c011669544720124e3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1 HD --> NEW LOOP
 plugin://script.module.horus?action=play&id=4a67d5f9f7aba0f9735813f0034380cd48424671
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1 HD --> NEW LOOP
+plugin://script.module.horus?action=play&id=e541a954465df29ccce4d829529d983ffb2803d4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 --> NEW ERA III
 plugin://script.module.horus?action=play&id=32fcf8e1513049ef9f90d08ba9040fe34b01d9fd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 --> ELCANO
-plugin://script.module.horus?action=play&id=7152d5f5fdb2184c88c2bb433d8b8f619cdc16b2
+plugin://script.module.horus?action=play&id=d05a03577faee7f5e267535be2397efc167891c4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 --> ELCANO
-plugin://script.module.horus?action=play&id=3ebcfc00921a4a9307dec97e078f8dc12eee27e7
+plugin://script.module.horus?action=play&id=dd0da37805768d6ec4a2b20db2081a00fa8bddc4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 --> ELCANO
-plugin://script.module.horus?action=play&id=c6180a86440004748e2abe34d6f31eed8a218a3a
+plugin://script.module.horus?action=play&id=09156d954fa783c9f24ac65e959a2ff91e0a7fec
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 HD --> NEW LOOP
 plugin://script.module.horus?action=play&id=088aea0c1509c5324f5ec6b9b6ff17ef2c231420
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 HD --> SPORT TV
@@ -160,21 +152,15 @@ plugin://script.module.horus?action=play&id=c21d60fa884b24f3cedcb1110b84ac2bcb0c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD --> NEW ERA VI
 plugin://script.module.horus?action=play&id=724f9b252b11064e3f16220717fd52bd3a510b5f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 --> ELCANO
-plugin://script.module.horus?action=play&id=27d11bbeb3026231d52de16b1fac48da7a099247
+plugin://script.module.horus?action=play&id=c9949bc3d708b9bb12095db8cd2029002fd7bc62
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 --> ELCANO
-plugin://script.module.horus?action=play&id=f16d68fa5ff64f3894a45062ca28e4e66f142c6a
+plugin://script.module.horus?action=play&id=ff770f04b4d985193edf8dd02feec90ef8234282
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 --> ELCANO
-plugin://script.module.horus?action=play&id=20086a76248efe8d5230c15d41c69bae8fa6381c
+plugin://script.module.horus?action=play&id=a3034286770b8f4905174096b51b2b03db8e4392
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 --> ELCANO
-plugin://script.module.horus?action=play&id=895d08633bb22c2573281655cf3ca44de476cc73
+plugin://script.module.horus?action=play&id=c3c6b0a1c155d50808fb10802f32e283bcaaabac
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 --> ELCANO
-plugin://script.module.horus?action=play&id=d719181097d256073844390b3e094fbcb1bceaa4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 --> ELCANO
-plugin://script.module.horus?action=play&id=f8b0eae8fda973cf426311541d1668aa592f0a8c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 --> ELCANO
-plugin://script.module.horus?action=play&id=02be332ebead0484a5354fa25e97b6833b8b129e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 --> ELCANO
-plugin://script.module.horus?action=play&id=0a81ba020d498aca1248e0591d8ffab99eb80bd4
+plugin://script.module.horus?action=play&id=91823ce98b319e417da089e4b977eaa6a90a2218
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 --> NEW LOOP
 plugin://script.module.horus?action=play&id=4a8fc1863b97e215bc52613d4336fc8929040041
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 HD --> NEW LOOP
@@ -192,7 +178,7 @@ plugin://script.module.horus?action=play&id=118416583faa3fb4f03800173429b6b844b4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png" tvg-id="FR | beIN SPORTS 2" group-title="FUTBOL INT", BEIN SPORTS 2 --> SPORT TV
 plugin://script.module.horus?action=play&id=edb507e38394d614c9ff55805c9d354ae13210bc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%203.png" tvg-id="FR | beIN SPORTS 3" group-title="FUTBOL INT", BEIN SPORTS 3 --> ELCANO
-plugin://script.module.horus?action=play&id=229419659a062e80a088bb049137dafa9c9952fe
+plugin://script.module.horus?action=play&id=85545644621babea228b03fe56be6f3d963560cb
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%203.png" tvg-id="FR | beIN SPORTS 3" group-title="FUTBOL INT", BEIN SPORTS 3 --> NEW LOOP
 plugin://script.module.horus?action=play&id=519c2159e9228bfe2f94911dfa111b01d0a896e2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%203.png" tvg-id="FR | beIN SPORTS 3" group-title="FUTBOL INT", BEIN SPORTS 3 --> SPORT TV
@@ -260,7 +246,7 @@ plugin://script.module.horus?action=play&id=d18e752ade97d8be74a99887fec550472335
 #EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/470.png" tvg-id="ESPN 4" group-title="FUTBOL INT", ESPN 4 [BE] --> SPORT TV
 plugin://script.module.horus?action=play&id=5f9b19c57195cc28ab81e0ec8cad03b55118687a
 #EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/148.png" tvg-id="ESPN" group-title="FUTBOL INT", ESPN [BE] --> ELCANO
-plugin://script.module.horus?action=play&id=bf3773e7f5e53c11347c70c18bd085322efbc90f
+plugin://script.module.horus?action=play&id=873dd22a945802338a5d492673c5ec1cc98420b6
 #EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/148.png" tvg-id="ESPN" group-title="FUTBOL INT", ESPN [BE] --> NEW LOOP
 plugin://script.module.horus?action=play&id=dda76be0877ee2b4e5619a88f878ca47978cc09d
 #EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/148.png" tvg-id="ESPN" group-title="FUTBOL INT", ESPN [BE] --> SPORT TV
@@ -296,23 +282,25 @@ plugin://script.module.horus?action=play&id=ee8ce83c44dc9b1e331672e2a0166e2830b0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", HYPERMOTION FHD --> NEW ERA VI
 plugin://script.module.horus?action=play&id=fc129b39c253b887563c3f0dce5fca7e699c3047
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", HYPERMOTION --> ELCANO
-plugin://script.module.horus?action=play&id=1f75d92098580443857caa95a719103cb83781b0
+plugin://script.module.horus?action=play&id=f823ad18e0676b11271879afc489a9d4c73b7837
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", HYPERMOTION --> ELCANO
-plugin://script.module.horus?action=play&id=2c54a4def58f41fc0d2163450a63f12955b656aa
+plugin://script.module.horus?action=play&id=17e5b028c32fc7fd7d2e3f000050a229de5099b2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", HYPERMOTION --> ELCANO
-plugin://script.module.horus?action=play&id=4636ed75106cb00e9c70cc2029edf0a4df7ad73f
+plugin://script.module.horus?action=play&id=9b252f58fa062ad479621045565072fa2c5cedf5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", HYPERMOTION --> ELCANO
-plugin://script.module.horus?action=play&id=e4cbd1a425120b1f44b523a55bd1a98c31cad9fe
+plugin://script.module.horus?action=play&id=f645eb255ca1d5f5a3012b84d3edad73e36b2e49
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", HYPERMOTION --> ELCANO
-plugin://script.module.horus?action=play&id=11ede21d726b3ac051a366960c6e89eec3c807b6
+plugin://script.module.horus?action=play&id=6a85e6175f5c94c000e3d94c60e81625fc38d7a0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K0VrQV/hypermotion2.png" tvg-id="LaLiga TV Hypermotion 2" group-title="HYPERMOTION", HYPERMOTION 2 --> ELCANO
-plugin://script.module.horus?action=play&id=3a21e651c0bffe810cfc8537065cb81f5ed68a55
+plugin://script.module.horus?action=play&id=05c7288c220501d14598ff4f31f54e0195b1a3bc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K0VrQV/hypermotion2.png" tvg-id="LaLiga TV Hypermotion 2" group-title="HYPERMOTION", HYPERMOTION 2 --> ELCANO
-plugin://script.module.horus?action=play&id=a5b9d834ad92bfb80fe01bf89cc20bd68be199fb
+plugin://script.module.horus?action=play&id=a794108ea5f110aa307ccf3cbb95140098153fef
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K0VrQV/hypermotion2.png" tvg-id="LaLiga TV Hypermotion 2" group-title="HYPERMOTION", HYPERMOTION 2 --> ELCANO
-plugin://script.module.horus?action=play&id=e63fbcafbfc9bcb7e1cffa1d2eea97cc77f7a198
+plugin://script.module.horus?action=play&id=441a6953651f798070747d65be31aaeb53d1f185
 #EXTINF:-1 tvg-logo="https://i.ibb.co/826y2Yv/Hypermotion3.png" tvg-id="LaLiga TV Hypermotion 3" group-title="HYPERMOTION", HYPERMOTION 3 --> ELCANO
-plugin://script.module.horus?action=play&id=7efe62956b1f395161e217df1f438c8bf0d4416b
+plugin://script.module.horus?action=play&id=1d49acef8090fa3bb4c49db7a1da4f7bb5e49667
+#EXTINF:-1 tvg-logo="https://i.ibb.co/826y2Yv/Hypermotion3.png" tvg-id="LaLiga TV Hypermotion 3" group-title="HYPERMOTION", HYPERMOTION 3 --> ELCANO
+plugin://script.module.horus?action=play&id=dd6c7559c271ddc13dae0dca2acccaeaff7e8bad
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1 --> NEW ERA
 plugin://script.module.horus?action=play&id=19f28f60c908f987b1a03da078e63320d7bf29e8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1 FHD --> NEW ERA
@@ -320,61 +308,51 @@ plugin://script.module.horus?action=play&id=d1596a3988b84a4d2711fd380eb8a53256ad
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1 FHD --> NEW ERA VI
 plugin://script.module.horus?action=play&id=71cb5e2567a8b39f5bdc4fa791992781b052f0bc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1 --> ELCANO
-plugin://script.module.horus?action=play&id=385abcf801b787eec6ed6624908758bb165c0a55
+plugin://script.module.horus?action=play&id=8c0fa8c0f1be146dcc64a94e37c64993df86c72a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1 --> ELCANO
-plugin://script.module.horus?action=play&id=cc108ae39f92c48f6c946763047bd1c9b7b7d889
+plugin://script.module.horus?action=play&id=cff402c0e11802d92fabf37b28d9ef20f03245d9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1 --> ELCANO
-plugin://script.module.horus?action=play&id=9c588ac92554746c489bc553773d959f6d2dfd8e
+plugin://script.module.horus?action=play&id=3a03dc436b15f1d5d7b285c80b982da02502c26d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1 --> ELCANO
-plugin://script.module.horus?action=play&id=7f9857c45764ef2c7cdfb619b89db3056a57a51f
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1 --> ELCANO
-plugin://script.module.horus?action=play&id=9c75f1d190c518cfe0f236415b8dccc1f676ef3b
+plugin://script.module.horus?action=play&id=e8dc3e7a1ee14566fc2d56a11037ee091e40f2e5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1 --> NEW LOOP
-plugin://script.module.horus?action=play&id=303c31ee08b34b4ae3486decca2df98089e4e488
+plugin://script.module.horus?action=play&id=8a25653a2f774f4ae1062d38a30dcd714d304a3a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1 --> NEW LOOP
 plugin://script.module.horus?action=play&id=b119416386155a6b85e7d0c7cab3ab92c7bfb87c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1 --> NEW LOOP
 plugin://script.module.horus?action=play&id=5437f76710c6cf7769e4a101ee52a6f4d4b39745
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1 FHD --> NEW LOOP
-plugin://script.module.horus?action=play&id=244a6fd6428f6ad13034339cb382e01a0e779d9d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1 --> SPORT TV
 plugin://script.module.horus?action=play&id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-2-es.png" tvg-id="DAZN LaLiga 2 HD" group-title="LA LIGA", DAZN LA LIGA 2 --> ELCANO
-plugin://script.module.horus?action=play&id=a70a1605f69c8379e04094df96922a42adfbb431
+plugin://script.module.horus?action=play&id=357e71223aad8bf80d3b86d31d9a0f75dd42d91e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-2-es.png" tvg-id="DAZN LaLiga 2 HD" group-title="LA LIGA", DAZN LA LIGA 2 --> ELCANO
-plugin://script.module.horus?action=play&id=d7ce121c775a303c470d2139b8e8cfa0db38adad
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-2-es.png" tvg-id="DAZN LaLiga 2 HD" group-title="LA LIGA", DAZN LA LIGA 2 --> ELCANO
-plugin://script.module.horus?action=play&id=465075c02b7284f564911bd63d1c6f0a8d464be7
+plugin://script.module.horus?action=play&id=db26cad444717c262dddb5ea37301ee779d4f5b9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA FHD --> NEW ERA II
 plugin://script.module.horus?action=play&id=d4ff041287a43e3114d411d671c4b4e92e21f33y
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA FHD --> NEW ERA VI
 plugin://script.module.horus?action=play&id=b3bdd6ef7f795c4f321a3ce5cf4907338f462929
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA --> ELCANO
-plugin://script.module.horus?action=play&id=3ace1463a7cad979c3a4002b245487e9982e9f1a
+plugin://script.module.horus?action=play&id=623f9ce3c4adfcd9771da41a6cc433632cf2c680
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA --> ELCANO
-plugin://script.module.horus?action=play&id=f863873de9f7b2996dde19a0657dd89835af3007
+plugin://script.module.horus?action=play&id=2816e0c7e4f6a19a0cc9d1c363936a186ab89771
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA --> ELCANO
-plugin://script.module.horus?action=play&id=5ad75216a63a31fef23ddc3532edc66c2fc0936c
+plugin://script.module.horus?action=play&id=2772b75c3bc7cfe214514a7745f63024620f3a29
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA --> ELCANO
-plugin://script.module.horus?action=play&id=0febfb5cac3384f487d55c559bbfc877db2d0357
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA --> ELCANO
-plugin://script.module.horus?action=play&id=d3b11d6c18ad43df5cd42c1dafb4dd12d8f829e8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA --> ELCANO
-plugin://script.module.horus?action=play&id=3ce95bc9d6fc63676d828bb2cfc7a1f1854fd259
+plugin://script.module.horus?action=play&id=f9e9258cb14ede2f9369be4cba395ffe3e04e4fb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA --> SPORT TV
 plugin://script.module.horus?action=play&id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" tvg-id="M+ LaLiga 2 HD" group-title="LA LIGA", M+ LALIGA 2 --> ELCANO
-plugin://script.module.horus?action=play&id=d16a9b50042cb9d6e648cae3b1472f655c4def61
+plugin://script.module.horus?action=play&id=2c2de8ff47a9a6112aa1266c10cbd3388bee99be
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" tvg-id="M+ LaLiga 2 HD" group-title="LA LIGA", M+ LALIGA 2 --> ELCANO
-plugin://script.module.horus?action=play&id=67966d205968de9cf95dcffe3b2ff6888b106634
+plugin://script.module.horus?action=play&id=38462c0f5c33bd903569526042b2aea58b0bcb4f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" tvg-id="M+ LaLiga 2 HD" group-title="LA LIGA", M+ LALIGA 2 --> ELCANO
-plugin://script.module.horus?action=play&id=448551642d9c7d0de53aa35d1ee41788909b6c0c
+plugin://script.module.horus?action=play&id=c5323596ae77cdb49d3792281d541678f174da37
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" tvg-id="M+ LaLiga 2 HD" group-title="LA LIGA", M+ LALIGA 2 --> SPORT TV
 plugin://script.module.horus?action=play&id=b8eb9c9868d487402569bba2d97a8af113d033fe
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BZF0xG9/liga3.png" tvg-id="M+ LaLiga 3 HD" group-title="LA LIGA", M+ LALIGA 3 --> ELCANO
-plugin://script.module.horus?action=play&id=7a8c26ece4d1ce106225a2bc66260f6a5b9be913
+plugin://script.module.horus?action=play&id=0b9d1fcff22c26e249458a3fe83af70adc5477e0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BZF0xG9/liga3.png" tvg-id="M+ LaLiga 3 HD" group-title="LA LIGA", M+ LALIGA 3 --> ELCANO
-plugin://script.module.horus?action=play&id=7bd9d072b65919352bda907b472961641e6e2930
+plugin://script.module.horus?action=play&id=5d75fbc6900598e32cfe9a3dae5517d4d69d75ba
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BZF0xG9/liga3.png" tvg-id="M+ LaLiga 3 HD" group-title="LA LIGA", M+ LALIGA 3 --> SPORT TV
 plugin://script.module.horus?action=play&id=571ce113b9d600a145766443d7417eccab2e1846
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-4-por-movistar-plus-es.png" tvg-id="M+ LaLiga 4" group-title="LA LIGA", M+ LALIGA 4 --> SPORT TV
@@ -388,15 +366,15 @@ plugin://script.module.horus?action=play&id=afbf2a479c5a5072698139f0f556ef3e77a9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES FHD --> NEW ERA II
 plugin://script.module.horus?action=play&id=afbf1ef8812e7b0a0977fa3a0a2d3a6d3cbd6c6f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES --> ELCANO
-plugin://script.module.horus?action=play&id=63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439
+plugin://script.module.horus?action=play&id=160e657985e1bb04ce216e8d180580f96df553bb
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES --> ELCANO
-plugin://script.module.horus?action=play&id=931fd4c24398a24beb9b6ede856ca34339ff2c22
+plugin://script.module.horus?action=play&id=5e6173b43eae5c16e65c411bd6f2006e7dd7744e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES --> ELCANO
-plugin://script.module.horus?action=play&id=91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
+plugin://script.module.horus?action=play&id=ab230c6aded2f51935ac720d205e426a43d50989
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES --> ELCANO
-plugin://script.module.horus?action=play&id=97df5b7824948972d041d8ca2a4d29c90b641bc9
+plugin://script.module.horus?action=play&id=67b80f6ae61f33ef780fed1feba6cc914e57ce96
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES --> ELCANO
-plugin://script.module.horus?action=play&id=91af434b0bb521189286f8cbbab1aed39d7536fe
+plugin://script.module.horus?action=play&id=edb4474bcc59cdf2dfdea86538c2bf3b22ec4a6c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES --> SPORT TV
 plugin://script.module.horus?action=play&id=e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 2 FHD --> NEW ERA
@@ -410,57 +388,57 @@ plugin://script.module.horus?action=play&id=4b18a3b32df5960ed950fa907f8d509b1ad2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 2 FHD --> NEW ERA II
 plugin://script.module.horus?action=play&id=ea03cc51980996ba6f2da49e30eee1de8a66ae54
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 2 --> ELCANO
-plugin://script.module.horus?action=play&id=47188da7d2e4beaee82cff174f223fdd23f78fa6
+plugin://script.module.horus?action=play&id=0d417ac9ae7c34c17f3fdb7128944c6313b80534
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 2 --> ELCANO
-plugin://script.module.horus?action=play&id=74ab4e4ec7e2da001f473ca40893b7307b8029c5
+plugin://script.module.horus?action=play&id=560e2c415c3a5f1fa5b7a7a7d3329e19d648745c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 2 --> ELCANO
-plugin://script.module.horus?action=play&id=bb26037a253866d341778181eff5c8637240d615
+plugin://script.module.horus?action=play&id=4ebfc0fec81001b9dd9127e7aa4d44af646caaae
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 2 --> ELCANO
+plugin://script.module.horus?action=play&id=48303d6f56613aca4765b0a8368ac4caa7766701
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 2 --> SPORT TV
 plugin://script.module.horus?action=play&id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" tvg-id="M+ Liga de Campeones 3 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 3 FHD --> NEW ERA
 plugin://script.module.horus?action=play&id=07976f79d17a439d7aff46cf0d4cfdf80311caf5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" tvg-id="M+ Liga de Campeones 3 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 3 --> ELCANO
-plugin://script.module.horus?action=play&id=5b7f54b12e0f96ceba1299f44eac4b0f97403e4e
+plugin://script.module.horus?action=play&id=d9f5ce28da077c646f54f5230ee50ec96dfeb51d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" tvg-id="M+ Liga de Campeones 3 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 3 --> ELCANO
-plugin://script.module.horus?action=play&id=cfc371890bfb502737a26de5215e50929c52d0f9
+plugin://script.module.horus?action=play&id=6a53508fcfa4958dc64e19458eb7a18b40d6f97d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" tvg-id="M+ Liga de Campeones 3 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 3 --> ELCANO
-plugin://script.module.horus?action=play&id=320bee0fbdf2a168d47810236985a7c40b4f85c9
+plugin://script.module.horus?action=play&id=105123aed5ecd8557bd481541479e36f60f3cc4a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" tvg-id="M+ Liga de Campeones 3 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 3 --> ELCANO
-plugin://script.module.horus?action=play&id=85a8e0675bc27ddfd403b8f72953c606d07a8de8
+plugin://script.module.horus?action=play&id=0a0b5378b86ba925ee783e21060939f37d1acd12
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" tvg-id="M+ Liga de Campeones 3 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 3 --> ELCANO
-plugin://script.module.horus?action=play&id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+plugin://script.module.horus?action=play&id=18e15efe081a4be4a7bf09eb8e5a23e10bd89473
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" tvg-id="M+ Liga de Campeones 3 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 3 --> SPORT TV
 plugin://script.module.horus?action=play&id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" tvg-id="M+ Liga de Campeones 4" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 4 --> ELCANO
-plugin://script.module.horus?action=play&id=5ba9368d80d2f87ac1c6d71df4e7e6e26e6911f2
+plugin://script.module.horus?action=play&id=17d823e0a466eae35bcda111f210084720a3bde0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" tvg-id="M+ Liga de Campeones 4" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 4 --> ELCANO
-plugin://script.module.horus?action=play&id=91ac4585368992720ec17ffa5b4389368c6dcac1
+plugin://script.module.horus?action=play&id=a00d327958dcf0a9eab73930abd75205b13229aa
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" tvg-id="M+ Liga de Campeones 4" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 4 --> ELCANO
-plugin://script.module.horus?action=play&id=64f01629d4a19e70efd9e6778c397282ba087547
+plugin://script.module.horus?action=play&id=6451c596854f380be78ee2edc5f81bdb503ac2b7
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" tvg-id="M+ Liga de Campeones 4" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 4 --> ELCANO
-plugin://script.module.horus?action=play&id=e9f4493d2d851f4636720f639113e05b4a21a74c
+plugin://script.module.horus?action=play&id=779d5f7f11a1d695b8f24aba7da1fa37c2870962
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" tvg-id="M+ Liga de Campeones 4" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 4 --> SPORT TV
 plugin://script.module.horus?action=play&id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" tvg-id="M+ Liga de Campeones 5" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 5 FHD --> NEW ERA
 plugin://script.module.horus?action=play&id=cb6410a6355a645cfc6f6f5a7c7d71298fcbc2c5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" tvg-id="M+ Liga de Campeones 5" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 5 --> ELCANO
-plugin://script.module.horus?action=play&id=3e430d14ef1cf1c147c7b06332081291e05a1431
+plugin://script.module.horus?action=play&id=999f4cf3175f2a0dedb6ab6586c19aff13bf3792
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" tvg-id="M+ Liga de Campeones 5" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 5 --> ELCANO
-plugin://script.module.horus?action=play&id=5620c0ce3dcbf14a6375cb2c2d681207f45eb97d
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" tvg-id="M+ Liga de Campeones 5" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 5 --> ELCANO
-plugin://script.module.horus?action=play&id=5bed693c6a22de55f1061c509bba5e3aeb2ea2aa
+plugin://script.module.horus?action=play&id=6bae4e20f02fe6c3251db7d6fe89d199ad92dcca
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png" tvg-id="M+ Liga de Campeones 6" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 6 --> ELCANO
-plugin://script.module.horus?action=play&id=54e971e70ed1e79a073a3aae410aed7818799112
+plugin://script.module.horus?action=play&id=ae2e0818685c3ad1eeadb23b4c2e5e6080c9f987
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png" tvg-id="M+ Liga de Campeones 6" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 6 --> ELCANO
-plugin://script.module.horus?action=play&id=497e2d0301fc289ccbd43080a580f63b718770e2
+plugin://script.module.horus?action=play&id=89a9c7b426a272a94a0a4beb4106b3ab4054578c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png" tvg-id="M+ Liga de Campeones 6" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 6 --> ELCANO
-plugin://script.module.horus?action=play&id=14bedc2ff054ae16c0fae99cfeb9dcda21ac68a0
+plugin://script.module.horus?action=play&id=a0093cbd3a6d76d8fc4c94eca10bc5eae0316c59
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png" tvg-id="M+ Liga de Campeones 6" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 6 --> ELCANO
-plugin://script.module.horus?action=play&id=373b2ff67490d1ed560a33156b34686923159874
+plugin://script.module.horus?action=play&id=33abe42ee9c841d6362b462eb015044daeef539e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%207.png" tvg-id="M+ Liga de Campeones 7" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 7 --> ELCANO
-plugin://script.module.horus?action=play&id=f22268a7d4a279feee02243d93a65cca2825c8e1
+plugin://script.module.horus?action=play&id=f410fce0386c3c5c3a6e7c4597e1139227e0e56e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%207.png" tvg-id="M+ Liga de Campeones 7" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 7 --> ELCANO
-plugin://script.module.horus?action=play&id=95ced66c1268717c19c1e3e020e3b23b0f02e504
+plugin://script.module.horus?action=play&id=3d10cfbfc5c40d10ac397267b7e25697b0d476a3
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3ee9eef4eb12ec1b3e26049e79a43606.webp" tvg-id="" group-title="MOTOR", CANAL MOTOR --> NEW LOOP
 plugin://script.module.horus?action=play&id=35e17cc84abc5e393b5acd688536a9681105f2d5
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3ee9eef4eb12ec1b3e26049e79a43606.webp" tvg-id="" group-title="MOTOR", CANAL MOTOR --> NEW LOOP
@@ -474,9 +452,9 @@ plugin://script.module.horus?action=play&id=9c75e6ed0671eec6670cb2eabcc7d78267c7
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Motorvision%20TV.png" tvg-id="Motorvision tv" group-title="MOTOR", MOTORVISION --> NEW LOOP
 plugin://script.module.horus?action=play&id=3a9f3c8b5ff1ef9cbdff95e171b36ff9affe03cd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsYoLr1q3_h6Jo21AgDZhyK62VNC6EdYRbAg&s" tvg-id="DE | Rally TV" group-title="MOTOR", RALLY TV --> ELCANO
-plugin://script.module.horus?action=play&id=64eb19dccf5e60f121a4c1f7c69489af6b1c9ca9
+plugin://script.module.horus?action=play&id=cba26e0373d5f9d8660842ca50a11558b4d71abb
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsYoLr1q3_h6Jo21AgDZhyK62VNC6EdYRbAg&s" tvg-id="DE | Rally TV" group-title="MOTOR", RALLY TV --> ELCANO
-plugin://script.module.horus?action=play&id=12404b00d2787995d639ccf71a80da5d39d153f9
+plugin://script.module.horus?action=play&id=a5d139eb1c3dbad5e6421acd91fbcff48f3096c4
 #EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/logo%20Motors%20TV.jpg" tvg-id="" group-title="MOTOR", RETROVISION MOTOR --> NEW LOOP
 plugin://script.module.horus?action=play&id=b8b8c4470d3d27c75302cf49ab6c4b52a660bff3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Calle%2013.png" tvg-id="Calle 13 HD" group-title="MOVISTAR", CALLE 13 HD --> NEW ERA III
@@ -512,9 +490,7 @@ plugin://script.module.horus?action=play&id=fa931cbc87dc9d66fdd30a9644e054b40396
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", MOVISTAR PLUS FHD --> NEW ERA VI
 plugin://script.module.horus?action=play&id=c1b7f54af0de256d1ac0fcac4c130e62660089f4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", MOVISTAR PLUS FHD --> ELCANO
-plugin://script.module.horus?action=play&id=ed74406ccdb3c21941b919db6bffca7f1de015bb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", MOVISTAR PLUS FHD --> ELCANO
-plugin://script.module.horus?action=play&id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+plugin://script.module.horus?action=play&id=30b9909b14b1924798573cace9f41369e1a334c5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Nickelodeon.png" tvg-id="Nickelodeon HD" group-title="MOVISTAR", Nickelodeon HD --> NEW ERA III
 plugin://script.module.horus?action=play&id=3f2b6ac892758f5f3574f649ba9c486b341ca20e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Onetoro.png" tvg-id="Onetoro" group-title="MOVISTAR", ONETORO FHD --> NEW ERA
@@ -522,59 +498,51 @@ plugin://script.module.horus?action=play&id=cd0188292b6b3876ff66c99bd3d25eab88b4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Onetoro.png" tvg-id="Onetoro" group-title="MOVISTAR", ONETORO FHD --> NEW ERA III
 plugin://script.module.horus?action=play&id=889db6c87a28fd5b3092333b63bcdddf05d26216
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Onetoro.png" tvg-id="Onetoro" group-title="MOVISTAR", ONETORO FHD --> ELCANO
-plugin://script.module.horus?action=play&id=536c879d8a914e43141d778b3567fa017c9f5eeb
+plugin://script.module.horus?action=play&id=761db2c22f9becefb18b8d9c9028a1e7c0167651
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES FHD --> NEW ERA
 plugin://script.module.horus?action=play&id=332d8fdeb9c51385230b8c9448e047ccc4a6355d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES --> NEW ERA III
 plugin://script.module.horus?action=play&id=af393f93814d03160d48d2730759593b7bea5b47
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES --> ELCANO
-plugin://script.module.horus?action=play&id=6e031aed136bf97d8667fcd5fc49c73256928281
+plugin://script.module.horus?action=play&id=3e1dba7d70192fee5925f798d7bc78b8a65ce80c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES --> ELCANO
-plugin://script.module.horus?action=play&id=7f8b4f57bf234510d3f607492508d68167d4b0ab
+plugin://script.module.horus?action=play&id=3d44884484303f51879f93ddaff6e4c267df2e3e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES --> ELCANO
-plugin://script.module.horus?action=play&id=c6a824a81b36f6c3529826477caf2ad94b45776d
+plugin://script.module.horus?action=play&id=8e22b547768ad2455e2015591ed2b06434d7415e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES --> ELCANO
-plugin://script.module.horus?action=play&id=cf5327fe9c962a29dfff3868f4349ff2b0b4662f
+plugin://script.module.horus?action=play&id=26f3db95b4261c7d7e83b68b75f513d84b03e876
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES --> ELCANO
-plugin://script.module.horus?action=play&id=b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
+plugin://script.module.horus?action=play&id=fe262fe80790667a96a78da6ab4b676e4e8e0c6a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES --> ELCANO
-plugin://script.module.horus?action=play&id=77cf022557c56cdf8d8115f50e61f846ad72ee05
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES --> ELCANO
-plugin://script.module.horus?action=play&id=3b50a1dca0977e3761d016edd79314ab797f74f6
+plugin://script.module.horus?action=play&id=25a358e8bde07d0ce157aac52618876da1279ab7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 2 FHD --> NEW ERA
 plugin://script.module.horus?action=play&id=edd06f11e1cef292a1d795e15207ef2f580e298c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 2 FHD --> NEW ERA
 plugin://script.module.horus?action=play&id=6e212a916c83638268047dd2757c95b14f7d25a3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 2 --> ELCANO
-plugin://script.module.horus?action=play&id=6b15368775693c33c49fab02e7900c1976a5da90
+plugin://script.module.horus?action=play&id=a159a45f78eb14679d3b0be74f258c7f54422a84
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 2 --> ELCANO
-plugin://script.module.horus?action=play&id=fd2aea1aa8fcddebfda1644118c6806230a1d539
+plugin://script.module.horus?action=play&id=87c7cb2150dbb779e2ac24d4c5762b430d4feb82
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 2 --> ELCANO
-plugin://script.module.horus?action=play&id=3774d8feab016ca766b35ea8488e7514ca30e0ee
+plugin://script.module.horus?action=play&id=190f1f66b25dbbba80e6068185953bd7d215bb76
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 2 --> ELCANO
-plugin://script.module.horus?action=play&id=8cd8fd69c6755ec452e9e74b33a0d1a653452191
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 2 --> ELCANO
-plugin://script.module.horus?action=play&id=3ee6a0b0e3cacea68107f61bf398f651d8159eed
+plugin://script.module.horus?action=play&id=beb4797e75faf14ab8d6dbc27c1b70b19baf4bd7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 2 HD --> SPORT TV
 plugin://script.module.horus?action=play&id=3afe1af18f8ff78e9946856911b00c67477052b5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" tvg-id="M+ Deportes 3" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 3 --> ELCANO
-plugin://script.module.horus?action=play&id=e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d
+plugin://script.module.horus?action=play&id=e4f3dbce910c70fe00aa05514fc35e357f465ce4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" tvg-id="M+ Deportes 3" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 3 --> ELCANO
-plugin://script.module.horus?action=play&id=d448a45840bfd60678abb2a45dd6044c9c8d11f8
+plugin://script.module.horus?action=play&id=f33ca32bf03072c6656e40b525d450b42f2ac06b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" tvg-id="M+ Deportes 3" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 3 --> ELCANO
-plugin://script.module.horus?action=play&id=f4d9011721fad5098febbe4d7c078a582e176a01
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" tvg-id="M+ Deportes 3" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 3 --> ELCANO
-plugin://script.module.horus?action=play&id=84aed52c5deb78f58595d88250e7a2bd04dfd810
+plugin://script.module.horus?action=play&id=dae45a2586268a6fec2ee710d19077ce79dd639e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" tvg-id="M+ Deportes 3" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 3 HD --> SPORT TV
 plugin://script.module.horus?action=play&id=39fefdecfc953dcf6e7c589739bf486c2e605ed0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WDN9NN9/deportes4.png" tvg-id="M+ Deportes 4" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 4 HD --> SPORT TV
 plugin://script.module.horus?action=play&id=8b5f9d967384afab226dd759e6e9dfaee9993869
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-5-por-movistar-plus-es.png" tvg-id="M+ Deportes 5" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 5 --> ELCANO
-plugin://script.module.horus?action=play&id=646a1ed4ece843de1979f7888cbdd4d937506a28
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-5-por-movistar-plus-es.png" tvg-id="M+ Deportes 5" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 5 HD --> SPORT TV
 plugin://script.module.horus?action=play&id=3230cdca852a10325222e3c546e499e31d547a90
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-6-por-movistar-plus-es.png" tvg-id="M+ Deportes 6" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 6 --> ELCANO
-plugin://script.module.horus?action=play&id=e6cd9205e26b3b6680f607030c702e911272524a
+plugin://script.module.horus?action=play&id=635777c964ca403b9556055c10b34059d2e866c9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-6-por-movistar-plus-es.png" tvg-id="M+ Deportes 6" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 6 HD --> SPORT TV
 plugin://script.module.horus?action=play&id=8f982a0d6e3196c12d0034142b65008321150f7c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD" group-title="MOVISTAR DEPORTES", MOVISTAR GOLF FHD --> NEW ERA
@@ -592,19 +560,19 @@ plugin://script.module.horus?action=play&id=651d6be899d1fafa107a265a9dc00ff914c1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR DEPORTES", MOVISTAR VAMOS --> NEW ERA III
 plugin://script.module.horus?action=play&id=86262568aa72b956b06ac67b1c310a32248a0e98
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR DEPORTES", MOVISTAR VAMOS --> ELCANO
-plugin://script.module.horus?action=play&id=d098d8f33ff7d088624f6ba5e45032e19fbcf89d
+plugin://script.module.horus?action=play&id=ad5661ef1b3da4b10156a8279d65c727d8ad2deb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR DEPORTES", MOVISTAR VAMOS --> ELCANO
-plugin://script.module.horus?action=play&id=7a053fc56fc93f42ec656382408e647055110e3e
+plugin://script.module.horus?action=play&id=cb86f8bb48ae00fdaa6864257a67d2fc5e7d4a99
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR DEPORTES", MOVISTAR VAMOS --> ELCANO
-plugin://script.module.horus?action=play&id=6b60251bc893c4e79fdfa37a1f5f6212e73ea6f9
+plugin://script.module.horus?action=play&id=a67d8015538d3c3f4ca4d2a06c9014c3085281da
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR DEPORTES", MOVISTAR VAMOS --> ELCANO
-plugin://script.module.horus?action=play&id=c8c172886e466fbe443433f8e95d201e34edd879
+plugin://script.module.horus?action=play&id=854f71a248771aa8c64f36d3dfd820caa2e76f2f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR DEPORTES", MOVISTAR VAMOS --> ELCANO
-plugin://script.module.horus?action=play&id=0cd11c1f51b84ebe9954496b3ef9b6aeccf7307c
+plugin://script.module.horus?action=play&id=caf448ca5aebabf314e828e3f8ae48d8616e7b2a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR DEPORTES", MOVISTAR VAMOS --> ELCANO
-plugin://script.module.horus?action=play&id=b46a524780cf0ac5e533491fe79389d6198acf2c
+plugin://script.module.horus?action=play&id=fec26bfe50edcf704be4d7a20775db400e379bf6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR DEPORTES", MOVISTAR VAMOS --> ELCANO
-plugin://script.module.horus?action=play&id=a9299052e9a16e5e2924e1fdd00b877c374f9e96
+plugin://script.module.horus?action=play&id=f75efb1ab987e9b207daccb9a3d49efa056bdd95
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png" tvg-id="TR | beIN SPORTS 2" group-title="SPORT TV", beIN SPORTS HD 2 (TR) --> SPORT TV
 plugin://script.module.horus?action=play&id=48bee10b883f17c7186d60f1e8022dca0ba41a05
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png" tvg-id="TR | beIN SPORTS 3" group-title="SPORT TV", beIN SPORTS HD 3 (TR) --> SPORT TV
@@ -702,7 +670,7 @@ plugin://script.module.horus?action=play&id=e1c2c2a74a3688066526e5ff212e13d2101f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C3yh66tp/cuatro.png" tvg-id="Cuatro HD" group-title="TDT", CUATRO FHD --> NEW ERA
 plugin://script.module.horus?action=play&id=8d66979e705a8b532b9243bbc0862c0f1c734ef0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C3yh66tp/cuatro.png" tvg-id="Cuatro HD" group-title="TDT", CUATRO --> ELCANO
-plugin://script.module.horus?action=play&id=72fe18250142433fe1d921fd76d99f3f1d2e2c00
+plugin://script.module.horus?action=play&id=9083f6411d8c6f41546d01f8fbeefb812e8ae1a9
 #EXTINF:-1 tvg-logo="https://e1.pngegg.com/pngimages/696/957/png-clipart-disney-channel-logo.png" tvg-id="Disney Channel" group-title="TDT", Disney Channel --> NEW ERA III
 plugin://script.module.horus?action=play&id=94f87e54d3ad4660c800d2ec46b14ba29e0186cc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="TDT", LA 1 4K --> NEW ERA
@@ -710,59 +678,51 @@ plugin://script.module.horus?action=play&id=6a54f8fb00406c88f68ac3f3aabc7d084f95
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="TDT", LA 1 FHD --> NEW ERA
 plugin://script.module.horus?action=play&id=7597d4feb3195079ffa606cf23a183d626ee40ba
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="TDT", LA 1 --> ELCANO
-plugin://script.module.horus?action=play&id=02622fa2fab63847d88dc14fd9fa5c2fc35de8a8
+plugin://script.module.horus?action=play&id=71c0a154022167992d7752e0dd5d348df94618da
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="TDT", LA 1 --> ELCANO
-plugin://script.module.horus?action=play&id=6a494f8e736b962d94f63425ebe3df90723af0fa
+plugin://script.module.horus?action=play&id=c731a7380816e72f3230239c046988b5d1cbd16b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="TDT", LA 1 --> ELCANO
-plugin://script.module.horus?action=play&id=9707e15881a29adc795ebdc12862289860edd4ef
+plugin://script.module.horus?action=play&id=466c09f142ba17ec9714bf53ea81dfd421dd9862
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="TDT", LA 1 4K --> ELCANO
-plugin://script.module.horus?action=play&id=da38a21a9509be8c03b0fdb539cb1485843330c3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="TDT", LA 1 4K --> ELCANO
-plugin://script.module.horus?action=play&id=5e04167606d69c896ba5919d2560eeef18342ff8
+plugin://script.module.horus?action=play&id=2e44af345b1118be0844364b335a617364166849
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YFzzqWw5/la2.png" tvg-id="La 2" group-title="TDT", LA 2 FHD --> NEW ERA
 plugin://script.module.horus?action=play&id=9934906503661142f97a044ae1509a294057c2ed
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YFzzqWw5/la2.png" tvg-id="La 2" group-title="TDT", LA 2 --> ELCANO
-plugin://script.module.horus?action=play&id=1acd38e6176c782f5184c8736e0cf7127b65798b
+plugin://script.module.horus?action=play&id=187821a2527a92efdc872182012c208091b165aa
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YFzzqWw5/la2.png" tvg-id="La 2" group-title="TDT", LA 2 --> ELCANO
-plugin://script.module.horus?action=play&id=b80cd193286a7df788c07649667c1e6f64fc9dc7
+plugin://script.module.horus?action=play&id=b3b7ff2fe58e71e686a80ad65432632baeebb4ef
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SX1jhBzy/lasexta.png" tvg-id="La Sexta HD" group-title="TDT", LA SEXTA FHD --> NEW ERA
 plugin://script.module.horus?action=play&id=44828a7580cd99fcb36245c327889c47f34b457f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/81wJ3GH/telecinco.png" tvg-id="Telecinco HD" group-title="TDT", TELECINCO --> ELCANO
-plugin://script.module.horus?action=play&id=3d376333ee90d6db3d413fc5764ef635882076f5
+plugin://script.module.horus?action=play&id=31dbf714ad40d93778c5b81790f6cb3a14b53bfb
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="TENNIS", TENNIS CHANNEL --> ELCANO
-plugin://script.module.horus?action=play&id=a4cbadd19442b800727be713270fa9c917cc8582
+plugin://script.module.horus?action=play&id=a277a7457af1d8181b5ccdbb0d79871b460ef690
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="TENNIS", TENNIS CHANNEL --> ELCANO
-plugin://script.module.horus?action=play&id=43c549e5781f5a923b76f8f29cde122b5be164eb
+plugin://script.module.horus?action=play&id=f31555f85bdde1fca8685d9e3a457e5aca5f3bc3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="TENNIS", TENNIS CHANNEL --> NEW LOOP
 plugin://script.module.horus?action=play&id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="TENNIS", TENNIS CHANNEL HD --> NEW LOOP
 plugin://script.module.horus?action=play&id=1b348443efc7f0cf4cdf349ac35bbe5d41be6220
 #EXTINF:-1 tvg-logo="https://ufc-video.s3.amazonaws.com/image/Articles/big-fight-pass-logo.png" tvg-id="" group-title="UFC", UFC Fight Pass --> ELCANO
-plugin://script.module.horus?action=play&id=23f93a25cdf488a2e021582e4a7bf3a00d4ffc25
+plugin://script.module.horus?action=play&id=e935c5bbad7af4af6c88b59c8e6cccbb99fb1bde
 #EXTINF:-1 tvg-logo="https://ufc-video.s3.amazonaws.com/image/Articles/big-fight-pass-logo.png" tvg-id="" group-title="UFC", UFC Fight Pass --> ELCANO
-plugin://script.module.horus?action=play&id=c268046a99fcaeb2a3487782c2365b6b9e55c4dd
+plugin://script.module.horus?action=play&id=477b3ea6be34bfd669cc35c5cdff8b18a3ad79f8
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ALTITUDE SPORTS * --> ELCANO
-plugin://script.module.horus?action=play&id=9ee035de0840c8fbfef82c9d51e8dad4a6251677
+plugin://script.module.horus?action=play&id=53e83fb6bf17f1fce7b5eccfddc242feb4d0ded4
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ALTITUDE SPORTS FHDp * --> ELCANO
-plugin://script.module.horus?action=play&id=3f1697cd02ff08343ace6171ffc2b26bf2b3ce1b
+plugin://script.module.horus?action=play&id=baa8282ef08047b96f07a2b8b7d37b7432907531
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", beIN Movies Turk --> NEW LOOP
 plugin://script.module.horus?action=play&id=cd243637855e2c5b2ce926f86032dfc430c79ebb
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Bein Sports TR SDp * --> ELCANO
-plugin://script.module.horus?action=play&id=1e3451ef86d34c96aabece2ac7bcae70ba9ed767
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Canal+ action --> NEW LOOP
 plugin://script.module.horus?action=play&id=5268a2b348aa53e325f99054a9da7cf1a2179ec9
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", CANAL+ SPORT --> NEW LOOP
 plugin://script.module.horus?action=play&id=108b33a44b6ab295f6301d0a2c433a1ef330d5a4
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", CANAL+ SPORT 3 --> NEW LOOP
 plugin://script.module.horus?action=play&id=61b151415b92d386fc8c167214bf444248dca18a
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN Baloncesto 2 SDp * --> ELCANO
-plugin://script.module.horus?action=play&id=fc912a111ea5a88e02b858b5014d2358b11c84ac
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN Baloncesto SDp * --> ELCANO
-plugin://script.module.horus?action=play&id=4005aabe21ba9c6d748845db91e4f48d99f58639
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN Baloncesto FHDp ** --> ELCANO
-plugin://script.module.horus?action=play&id=2cfbb2cb8923b15b0ef74aba69e8137b0fbbba2e
+plugin://script.module.horus?action=play&id=d22f026975a17af9a10e52935f50ea6d5c0de3f3
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN Baloncesto SDp ** --> ELCANO
-plugin://script.module.horus?action=play&id=9dd9cd78f0b08097a0ad290606dbbee999709fa5
+plugin://script.module.horus?action=play&id=4153dc48705b9293d82530f9d750c7917033e157
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN FIFA 1--> NEW ERA III
 plugin://script.module.horus?action=play&id=b2bf586e7ddc31352f120c9274c1441dea3f5418
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN FIFA 2--> NEW ERA III
@@ -778,17 +738,11 @@ plugin://script.module.horus?action=play&id=18b03739d660f0066364343e226e437bf255
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN MotoGP Shickat | shickat.online (VPN) | shickat.blog | https://ipfs.io/ipns/k51qzi5uqu5dgni30z98zbli9a3vv2xtp8cek1xjikfsels3a259i5clyta19p --> NEW LOOP
 plugin://script.module.horus?action=play&id=0d4b3b5f63c6afd180d9e5e2e57528e15a5218ab
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Dazn MotoGP FHDp * --> ELCANO
-plugin://script.module.horus?action=play&id=e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c
+plugin://script.module.horus?action=play&id=d31124c7375eea96eb04c76f28362fdab3dac9c8
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Dazn MotoGP FHDp ** --> ELCANO
-plugin://script.module.horus?action=play&id=342ca6975a4884d81f9fec5c4085a47060bd2028
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Dazn MotoGP FHDp ** --> ELCANO
-plugin://script.module.horus?action=play&id=c53bdb3be55d12c5188d25085f1bb16911c15cea
+plugin://script.module.horus?action=play&id=2ff2d0672c4518b745427d0650d77b803189e763
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", M+ Baloncesto 2 FHDp * --> ELCANO
-plugin://script.module.horus?action=play&id=c8c33b2673efe7f386790c5966643820578f3535
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", M+ Baloncesto 3 FHDp ** --> ELCANO
-plugin://script.module.horus?action=play&id=7b0193004089d4d29821a5cdf17f407d0d192314
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", M+ Baloncesto FHDp * --> ELCANO
-plugin://script.module.horus?action=play&id=e3816fbc661fbc8b2b656aee9483d0a55a1608b6
+plugin://script.module.horus?action=play&id=6b5cb144405a5ef1890ab0f4c22afaf924229cbb
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", M+ CINE ESPAnOL HD Spain --> NEW LOOP
 plugin://script.module.horus?action=play&id=812151e00822387172fb695f526415c45ad8cd1b
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", M+ Documentales HD Spain --> NEW LOOP
@@ -796,15 +750,15 @@ plugin://script.module.horus?action=play&id=a52f0bf0a381275ccbd65988b803fe4e5930
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", M+ DRAMA HD Spain --> NEW LOOP
 plugin://script.module.horus?action=play&id=acc20f3739d9eccd0539f0c62519f35b8750a245
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", M+ Golf 2 FHDp * --> ELCANO
-plugin://script.module.horus?action=play&id=597cca4ef375529aaca0608b43187d99d26ca714
+plugin://script.module.horus?action=play&id=2c8801c8e20cd9a1edc39ff4b5b1ecec21fde483
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", M+ Golf 2 FHDp ** --> ELCANO
-plugin://script.module.horus?action=play&id=882074140fca664e119a43294afa2fb4a64917ef
+plugin://script.module.horus?action=play&id=d8cac298fc607123cde5315d6091d7b83b63f817
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", M+ Golf FHDp * --> ELCANO
-plugin://script.module.horus?action=play&id=9bb2a7dc6c6a296609df8cc50e742a78194f7530
+plugin://script.module.horus?action=play&id=3f7338c6ee6fab7cd134325e57591e02ebbf59e4
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", M+ Golf SDp * --> ELCANO
-plugin://script.module.horus?action=play&id=f60535a458b3c114283e2f433379144345beddd6
+plugin://script.module.horus?action=play&id=ec825614dae92f14f1567084012ab79d7802e425
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", M+ Golf FHDp ** --> ELCANO
-plugin://script.module.horus?action=play&id=8121478d3d3e563ad6b98018bc1c0aeb2f6166eb
+plugin://script.module.horus?action=play&id=a9af8a1705b715948702daf926e33e38c5bd59d7
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", M+ Hits HD Spain --> NEW LOOP
 plugin://script.module.horus?action=play&id=e10ef7d45baba0ec10a1f237042dc633df947826
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", M+ Indie HD Spain --> NEW LOOP
@@ -846,9 +800,9 @@ plugin://script.module.horus?action=play&id=318c12f5f40d7bd9c0ab0c130bf9b9666809
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Pluto TV Auto Motor Sport (720p) --> NEW LOOP
 plugin://script.module.horus?action=play&id=ffa09e597804001f634dd1829f031823411a2595
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", RFEF TV FHDp * --> ELCANO
-plugin://script.module.horus?action=play&id=7b742628b9f7e82902bdbc1ff92eba1988875cfc
+plugin://script.module.horus?action=play&id=ae945e3b47be5de53719061ea384fb82d6bbe0b5
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", RFEF TV FHDp * --> ELCANO
-plugin://script.module.horus?action=play&id=177796041773be99b489dd3ce86144f243e7355f
+plugin://script.module.horus?action=play&id=6eaca014b2386529762a4cdca826cee04b491fb6
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", RTL+ SPORT EVENT 1 (DE) --> SPORT TV
 plugin://script.module.horus?action=play&id=a7319ebd54cb1db9a9db1574929ca8d305a323d3
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", RTL+ SPORT EVENT 2 (DE) --> SPORT TV
@@ -874,11 +828,15 @@ plugin://script.module.horus?action=play&id=42fe2ce3ef6b92653a74d85b6e98c2ba0abe
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Setanta Live 2 (RU) --> SPORT TV
 plugin://script.module.horus?action=play&id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Sky Sport Tennis FHDp * --> ELCANO
-plugin://script.module.horus?action=play&id=f31d1f85570b58be8d5ab6f4f2d0f3f9c815c35f
+plugin://script.module.horus?action=play&id=2b6af2d3090cb4c0a6d238c84fb0c1ea44013c5a
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Sky Sport Tennis FHDp ** --> ELCANO
-plugin://script.module.horus?action=play&id=b523277cc0d5d64be260dbf24df1ada1c0097507
+plugin://script.module.horus?action=play&id=37cd7bd82c2394516c828df4e1a1f1f4485dd61c
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Sky Sports LaLiga HD --> NEW ERA
 plugin://script.module.horus?action=play&id=2fab80a8445e31cb98169c0907600e1545ea8557
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", SPORT TV3 FHDp ** --> ELCANO
+plugin://script.module.horus?action=play&id=0fc103fc10cbc086da933fbf4e3e78767c3f0a57
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", SPORT TV3 SDp ** --> ELCANO
+plugin://script.module.horus?action=play&id=f534382c6031ae83f0594cb08db4358ba72a15d0
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", SuperTennis HD --> NEW LOOP
 plugin://script.module.horus?action=play&id=7a57543cb6061648dc44c5d4321bd100bc8a47ca
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", VIASAT SPORT HD (RU) --> SPORT TV
